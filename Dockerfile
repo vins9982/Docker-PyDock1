@@ -1,4 +1,4 @@
-#Dockerfile, image, container
+#Dockerfile, image, container, elsewhere
 FROM python:3.8
 
 ADD main.py .
